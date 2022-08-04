@@ -1,0 +1,16 @@
+a=1
+b=3
+echo $a
+echo $b
+
+sum=$(($a + $b))
+echo "sum is"
+echo $sum
+#program
+
+
+
+read C
+F=$((9 * $C / 5 + 32))
+echo $F
+
